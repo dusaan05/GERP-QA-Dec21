@@ -46,12 +46,6 @@ public class LearnAlert {
 		promptAlert.dismiss();	
 		System.out.println("PromtAlert Completed");
 		
-		
-		
-	
-		
-		
-
 	}
 
 }
